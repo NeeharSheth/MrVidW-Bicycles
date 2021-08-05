@@ -1,0 +1,56 @@
+canvas{
+border: 2px solid white;
+border-radius: 10px;
+}
+
+.heading{
+    margin:0;
+    font-family: 'Palette Mosaic', cursive;   
+    width: 100%;
+    font-size: 42px;
+}
+
+.btn_div{
+    margin-left: 1500px;
+    margin-top: 400px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.buttons{
+font-size: 32px !important;
+}
+
+#other_btn{
+    visibility: hidden;
+}
+
+.money_div{
+position: fixed;
+width: 100%;
+bottom: 0;
+font-size: 30px;
+background-color: darkslategray;
+line-height: 3;
+box-shadow: 5px 2px 18px darkslateblue;
+color:fuchsia;
+font-family: 'Style Script', cursive;
+}
+
+.file_input{
+    float: left;
+    margin-left: 30px;
+    margin-top: 700px;
+    font-size: 23px;
+    border-radius: 20px;
+    width: 190px;
+    height: 50px;
+    visibility: hidden;
+}
+
+.select_div{
+    float: left;
+    margin-left: 30px;
+    margin-top: 250px;
+    font-size: 23px;
+    color: white;
+}
